@@ -40,7 +40,7 @@ Validación de Loss de los modelos:
 
 Tabla comparativa de los modelos:
 <p align="center">
-<img src="Resultados/Tabla_comparativa.png"/>
+<img src="Resultados/ACC_Loss/Tabla_comparativa.png"/>
 </P>
 
 A continuación se muestra la validación de las arquitecturas en 3 diferentes imagenes de pruebas visualizando la atención con GrandCam:
