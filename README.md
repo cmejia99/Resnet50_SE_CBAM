@@ -10,7 +10,11 @@
     * **Código:** 2211058
 
 ## **Contenido** ##
-En este repositorio se podrá encontrar la documentación, fuentes y resultados llevados a cabo en la comparación de los modelos de la arquitectura RestNet 50 utilizando diferentes modelos de atención:
+En este repositorio se podrá encontrar la documentación, fuentes y resultados llevados a cabo en la comparación de los modelos de la arquitectura RestNet 50 utilizando diferentes modelos de atención aplicados al dataset CIFAR10:
+
+* ResNet50 original (sin módulo de atención)
+* ResNet50 con módulo de atención Squeeze-Excitation
+* Resnet50 con módulo de atencion CBAM
 
 <p align="center">
 <img src="ARQResNet50.png" alt="" style="height: 400px; width:600px;"/>
@@ -24,15 +28,15 @@ Validación del Heatmap de las 3 arquitecturas:
 <img src="img/heatmap3.png"/> 
 </P>
 
+Validación del Accuracy de los modelos:
+<p align="center">
+<img src="img/Accuracy.png"/>
+</P>
+
 Validación de Loss de los modelos:
 <p align="center">
 <img src="img/Loss.png"/>
 </P>
-
-Validación del Accuracy de los modelos:
-<p align="center">
-<img src="img/Accuracy.png"/>
-</P> 
 
 A continuación se muestra la validación de las arquitecturas en 3 diferentes imagenes de pruebas visualizando la atención con GrandCam:
 
