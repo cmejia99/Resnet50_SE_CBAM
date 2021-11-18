@@ -32,7 +32,7 @@ Validación de Loss de los modelos:
 Validación del Accuracy de los modelos:
 <p align="center">
 <img src="img/Accuracy.png"/>
-</P>
+</P> 
 
 A continuación se muestra la validación de las arquitecturas en 3 diferentes imagenes de pruebas visualizando la atención con GrandCam:
 
