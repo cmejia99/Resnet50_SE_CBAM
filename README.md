@@ -20,6 +20,8 @@ Validación del Heatmap de las 3 arquitecturas:
 
 <p align="center">
 <img src="img/heatmap.png"/> 
+<img src="img/heatmap2.png"/> 
+<img src="img/heatmap3.png"/> 
 </P>
 
 Validación de Loss de los modelos:
@@ -69,7 +71,7 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/pajaro2_RN50CBAM.png" alt="" style="height: 200px; width:300px;"/> 
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/rana1_RN50CBAM.png" alt="" style="height: 200px; width:300px;"/>  
-    </P>
+    </P> 
 
 ## **Links alternos al repositorio:** ##
 * [Repositorio Google Drive Tarea](https://drive.google.com/file/d/1aar-eZAy8nYX8TlmvjE2uV6RvF6J5Eyz/view?usp=drive_web&authuser=0)
