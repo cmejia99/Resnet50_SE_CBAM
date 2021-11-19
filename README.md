@@ -1,4 +1,4 @@
-# **Resnet50 - SE -  CBAM** #
+# **Resnet50 - SE -  CBAM - SE-ADAM** #
 ## **Diseñado por:**
 * *Alba Maria Ramirez Marquinez*
     * **Código:** 2216260
@@ -20,12 +20,13 @@ En este repositorio se podrá encontrar la documentación, fuentes y resultados 
 <img src="ARQResNet50.png" alt="" style="height: 400px; width:600px;"/>
 </P>
 
-Validación del Heatmap de las 3 arquitecturas:
+Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametrizada el ADAM:
 
 <p align="center">
 <img src="img/heatmap.png"/> 
 <img src="img/heatmap2.png"/> 
-<img src="img/heatmap3.png"/> 
+<img src="img/heatmap3.png"/>
+<img src="img/heatmap4.png"/>  
 </P>
 
 Validación del Accuracy de los modelos:
