@@ -26,7 +26,6 @@ Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametriz
 <img src="img/heatmap.png"/> 
 <img src="img/heatmap2.png"/> 
 <img src="img/heatmap3.png"/>
-<img src="img/heatmap4.png"/>  
 </P>
 
 Validación del Accuracy de los modelos:
