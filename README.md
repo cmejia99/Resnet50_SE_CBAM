@@ -40,7 +40,7 @@ Validación de Loss de los modelos:
 
 Tabla comparativa de los modelos:
 <p align="center">
-<img src="img/Tabla_comparativa.png"/>
+<img src="img/Tabla_comparativa.png"/> 
 </P>
 
 A continuación se muestra la validación de las arquitecturas en 3 diferentes imagenes de pruebas visualizando la atención con GrandCam:
@@ -53,11 +53,11 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/pajaro2_RN50.png" alt="" style="height: 200px; width:300px;"/> 
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/rana1_RN50.png" alt="" style="height: 200px; width:300px;"/>
-    </P>
+    </P> 
 *  Squeeze Excitation
     <p align="center">
     <img src="img/caballo1.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/caballo1_RN50SE.jpg" alt="" style="height: 200px; width:300px;">
+    <img src="img/caballo1_RN50SE.png" alt="" style="height: 200px; width:300px;">
     <img src="img/pajaro2.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/pajaro2_RN50SE.png" alt="" style="height: 200px; width:300px;"/> 
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
@@ -68,7 +68,7 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/caballo1.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/caballo1_RN50SEAdam.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/pajaro2.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/pajaro2_RN50SEAdam.png" alt="" style="height: 200px; width:300px;"/> 
+    <img src="img/pajaro2_RN50SEAdam.png" alt="" style="height: 200px; width:300px;"/>  
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/rana1_RN50SEAdam.png" alt="" style="height: 200px; width:300px;"/> 
     </P>
