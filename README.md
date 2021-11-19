@@ -1,4 +1,4 @@
-# **Resnet50 - SE -  CBAM - SE-ADAM** #
+# **Resnet50 - SE -  CBAM - SE_ADAM** #
 ## **Diseñado por:**
 * *Alba Maria Ramirez Marquinez*
     * **Código:** 2216260
@@ -67,11 +67,11 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
 *  Squeeze Excitation Adam ajustado.
     <p align="center">
     <img src="img/caballo1.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/caballo1_RN50SEAdam.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/caballo1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/pajaro2.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/pajaro2_RN50SEAdam.png" alt="" style="height: 200px; width:300px;"/>  
+    <img src="img/pajaro2_SE_ADAM.png" alt="" style="height: 200px; width:300px;"/>  
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/rana1_RN50SEAdam.png" alt="" style="height: 200px; width:300px;"/> 
+    <img src="img/rana1_SE_ADAM.png" alt="" style="height: 200px; width:300px;"/> 
     </P>
 *  CBAM
     <p align="center">
