@@ -69,9 +69,9 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/caballo1.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/caballo1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/pajaro2.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/pajaro2_SE_ADAM.png" alt="" style="height: 200px; width:300px;"/>  
+    <img src="img/pajaro2_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>  
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/rana1_SE_ADAM.png" alt="" style="height: 200px; width:300px;"/> 
+    <img src="img/rana1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/> 
     </P>
 *  CBAM
     <p align="center">
