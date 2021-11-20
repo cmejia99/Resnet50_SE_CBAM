@@ -57,7 +57,7 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
 *  Squeeze Excitation
     <p align="center">
     <img src="img/caballo1.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/caballo1_RN50SE.png" alt="" style="height: 200px; width:300px;">
+    <img src="img/caballo1_RN50SE.jpg" alt="" style="height: 200px; width:300px;">
     <img src="img/pajaro2.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/pajaro2_RN50SE.png" alt="" style="height: 200px; width:300px;"/> 
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
