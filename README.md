@@ -47,13 +47,7 @@ En este archivo se podrá encontrar las funciones y librerías usadas para la co
 
 ## **Resultados:** ##
 
-Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametrizada el ADAM:
-
-<p align="center">
-<img src="img/heatmap.png"/> 
-<img src="img/heatmap2.png"/> 
-<img src="img/heatmap3.png"/>
-</P>
+En este ejercicio implementamos dos mecanismos de atención, Squeeze-Excitation (SE) y Módulo de Atención de Bloques Convolucionales (CBAM), aplicado a una arquitectura básica ResNet50 buscando mejorar su poder representación e intentando replicar los resultados obtenidos por los autores y creadores de los respectivos módulos de atención.
 
 Validación del Accuracy de los modelos:
 <p align="center">
@@ -65,9 +59,20 @@ Validación de Loss de los modelos:
 <img src="img/Loss.png"/>
 </P>
 
-Tabla comparativa de los modelos:
+Para el análisis hemos presentado los resultados de rendimiento de nuestros modelos propuestos basados en RESNET50, RESNET50-SE y RESNET50-CBAM aplicados a la base de datos CIFAR10:
+
 <p align="center">
 <img src="img/Tabla_Comparativa_modelos.png"/>
+</P>
+
+Se puede observar que el modelo RESNET50-CBAM, supera a los demás modelos propuestos contando con un accuracy de 82.89% y un 0.88 en la función de perdida, lo que en teoría mejora la clasificaciónde las imagenes, sin embargo observando el heatmap de cada imagen y modelo, vemos que la atención la realiza mejor el modelo RestNet_SE.
+
+Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametrizada el ADAM:
+
+<p align="center">
+<img src="img/heatmap.png"/> 
+<img src="img/heatmap2.png"/> 
+<img src="img/heatmap3.png"/>
 </P>
 
 A continuación se muestra la validación de las arquitecturas en 3 diferentes imágenes de pruebas visualizando la atención con GrandCam:
