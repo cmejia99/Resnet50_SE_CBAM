@@ -10,6 +10,7 @@
     * **Código:** 2211058
 
 ## **Contenido** ##
+
 En este repositorio se podrá encontrar la documentación, fuentes y resultados llevados a cabo en la comparación de los modelos de la arquitectura RestNet 50 utilizando diferentes modelos de atención aplicados al dataset **CIFAR10**:
 
 * ResNet50 original (sin módulo de atención)
@@ -21,6 +22,7 @@ En este repositorio se podrá encontrar la documentación, fuentes y resultados 
 </P>
 
 ## **Construcción del repositorio:** ##
+
 Para llevar a la construcción del proyecto, se estableció un repositorio en  [Google Drive](https://drive.google.com/file/d/1aar-eZAy8nYX8TlmvjE2uV6RvF6J5Eyz/view?usp=drive_web&authuser=0) donde se almaceno la siguiente información:
 
 ```bash
@@ -65,7 +67,7 @@ Para el análisis hemos presentado los resultados de rendimiento de nuestros mod
 <img src="img/Tabla_Comparativa_modelos.png"/>
 </P>
 
-Se puede observar que el modelo RESNET50-CBAM, supera a los demás modelos propuestos contando con un accuracy de 82.89% y un 0.88 en la función de perdida, lo que en teoría mejora la clasificaciónde las imagenes, sin embargo observando el heatmap de cada imagen y modelo, vemos que la atención la realiza mejor el modelo RestNet_SE.
+Se puede observar que el modelo RESNET50-CBAM, supera a los demás modelos propuestos contando con un accuracy de 82.89% y un 0.88 en la función de perdida, lo que en teoría mejora la clasificaciónde las imagenes, sin embargo observando el heatmap de cada imagen y modelo, vemos que la atención la realiza mejor el modelo RestNet_SE con Adam Ajustado.
 
 Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametrizada el ADAM:
 
@@ -114,8 +116,11 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/rana1_RN50CBAM.png" alt="" style="height: 200px; width:300px;"/>
     </P> 
 
-## **Conclusiones:** ##
-...
+## **Conclusiones y aprendizajes:** ##
+
+A través de la implementación realizada y descrita anteriormente, se pudo validar que los mecánismos o modelos de atención definitivamente mejoran el poder de foco de las redes neuronales convulucionales y su representación.   El uso de cada mecanismo de atención dependerá de la tarea que se quiera realizar, el dataset seleccionado y por supuesto, el tiempo de entrenamiento de cada modelo.  En este caso, si bien tuvimos un aceptable desempeño en cada una de los modelos implementados, se esperaba obtener una mejor distribución de los heatmaps en cada imagen que realmente enfocara el objetivo, sin embargo, tuvimos problemas con la herramienta utilizada para el entrenamiento, ya que cada ciertas epocas se reiniciaba y bloqueaba las cuentas utilizadas (googlecolab).  
+
+En se sentido, si bien la implementación de los módulos de atención en la arquitectura de red (RestNet50) fue exitosa, concluimos que el entrenamiento require de muchas más épocas para obtener resultados más acordes que coincidan con los resultados presentados en los papers de los autores de los modelos.
 
 
 ## **Links alternos al repositorio:** ##
