@@ -61,7 +61,7 @@ Validación de Loss de los modelos:
 <img src="img/Loss.png"/>
 </P>
 
-Para el análisis hemos presentado los resultados de rendimiento de nuestros modelos propuestos basados en RESNET50, RESNET50-SE y RESNET50-CBAM aplicados a la base de datos CIFAR10:
+Para el análisis presentamos los resultados de rendimiento de nuestros modelos propuestos basados en RESNET50, RESNET50-SE y RESNET50-CBAM aplicados a la base de datos CIFAR10:
 
 <p align="center">
 <img src="img/Tabla_Comparativa_modelos.png"/>
