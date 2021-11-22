@@ -45,11 +45,11 @@ Se utilizó un único archivo para el entrenamiento y validación de todos los m
 Resnet50_SE_CBAM\Modelos\ResNet50_SE_y_CBAM.ipynb
 ```
 
-En este archivo se podrá encontrar las funciones y librerías usadas para la construcción de este proyecto, esta construcción se realizó bajo la explicación del profesor **Juan Carlos Perafan** en su clase de Deep learning avanzado en la especialización de Inteligencia Artificial 2021.
+En este archivo se podrá encontrar las funciones y librerías usadas para la construcción de este proyecto, esta construcción se realizó bajo la explicación del profesor **Juan Carlos Perafan** en su clase de Deep Learning Avanzado en la Especialización de Inteligencia Artificial 2021.
 
 ## **Resultados:** ##
 
-En este ejercicio implementamos dos mecanismos de atención, Squeeze-Excitation (SE) y Módulo de Atención de Bloques Convolucionales (CBAM), aplicado a una arquitectura básica ResNet50 buscando mejorar su poder representación e intentando replicar los resultados obtenidos por los autores y creadores de los respectivos módulos de atención.
+Implementamos dos mecanismos de atención, Squeeze-Excitation (SE) y Módulo de Atención de Bloques Convolucionales (CBAM), aplicado a una arquitectura básica ResNet50 buscando mejorar su poder representación e intentando replicar los resultados obtenidos por los autores y creadores de los respectivos módulos de atención.
 
 Validación del Accuracy de los modelos:
 <p align="center">
@@ -61,13 +61,13 @@ Validación de Loss de los modelos:
 <img src="img/Loss.png"/>
 </P>
 
-Para el análisis presentamos los resultados de rendimiento de nuestros modelos propuestos basados en RESNET50, RESNET50-SE y RESNET50-CBAM aplicados a la base de datos CIFAR10:
+Para el análisis presentamos los resultados de rendimiento de nuestros modelos propuestos RESNET50, RESNET50-SE y RESNET50-CBAM aplicados a la base de datos CIFAR10:
 
 <p align="center">
 <img src="img/Tabla_Comparativa_modelos.png"/>
 </P>
 
-Se puede observar que el modelo RESNET50-CBAM, supera a los demás modelos propuestos contando con un accuracy de 82.89% y un 0.88 en la función de perdida, lo que en teoría mejora la clasificaciónde las imagenes, sin embargo observando el heatmap de cada imagen y modelo, vemos que la atención la realiza mejor el modelo RestNet_SE con Adam Ajustado.
+Se puede observar que el modelo RESNET50-CBAM, supera a los demás modelos contando con un accuracy de 82.89% y un 0.88 en la función de perdida, lo que en teoría mejora la clasificación de las imagenes, sin embargo observando el heatmap de cada imagen y modelo, vemos que la atención la realiza mejor el modelo RestNet_SE con Adam Ajustado.
 
 Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametrizada el ADAM:
 
