@@ -72,9 +72,16 @@ Se puede observar que el modelo RESNET50-CBAM, supera a los demás modelos conta
 Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametrizada el ADAM:
 
 <p align="center">
-<img src="img/heatmap.png"/> 
-<img src="img/heatmap2.png"/> 
-<img src="img/heatmap3.png"/>
+<img src="img/gramc_carro.png"/> 
+<img src="img/gramc_rana.png"/> 
+<img src="img/gramc_perro.png"/>
+<img src="img/gramc_pajaro.png"/> 
+<img src="img/gramc_gato.png"/> 
+<img src="img/gramc_barco.png"/>
+<img src="img/gramc_avion.png"/> 
+<img src="img/gramc_ciervo.png"/> 
+<img src="img/gramc_camion.png"/>
+<img src="img/gramc_caballo.png"/>
 </P>
 
 A continuación se muestra la validación de las arquitecturas en 3 diferentes imágenes de pruebas visualizando la atención con GrandCam:
