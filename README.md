@@ -140,6 +140,20 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/pajaro2_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>  
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/rana1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/> 
+    <img src="img/avion1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/avion1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/barco1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/barco1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/camion1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/camion1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/carro1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/carro1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/ciervo1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/ciervo1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/perro1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/perro1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/gato1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/gato1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/> 
     </P>
 *  CBAM
     <p align="center">
@@ -149,6 +163,20 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/pajaro2_RN50CBAM.png" alt="" style="height: 200px; width:300px;"/> 
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/rana1_RN50CBAM.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/avion1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/avion1_SE_ADAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/barco1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/barco1_CBAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/camion1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/camion1_CBAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/carro1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/carro1_CBAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/ciervo1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/ciervo1_CBAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/perro1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/perro1_CBAM.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/gato1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/gato1_CBAM.jpg" alt="" style="height: 200px; width:300px;"/> 
     </P> 
 
 ## **Conclusiones y aprendizajes:** ##
