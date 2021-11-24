@@ -93,7 +93,21 @@ A continuación se muestra la validación de las arquitecturas en 3 diferentes i
     <img src="img/pajaro2.jpg" alt="" style="height: 200px; width:300px;"/>
     <img src="img/pajaro2_RN50.png" alt="" style="height: 200px; width:300px;"/> 
     <img src="img/rana1.jpg" alt="" style="height: 200px; width:300px;"/>
-    <img src="img/rana1_RN50.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/rana1_RN50.jpg" alt="" style="height: 200px; width:300px;"/> 
+    <img src="img/avion1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/avion1_RN50.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/barco1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/barco1_RN50.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/camion1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/camion1_RN50.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/carro1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/carro1_RN50.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/ciervo1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/ciervo1_RN50.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/perro1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/perro1_RN50.png" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/gato1.jpg" alt="" style="height: 200px; width:300px;"/>
+    <img src="img/gato1_RN50SE.jpg" alt="" style="height: 200px; width:300px;"/> 
     </P> 
 *  Squeeze Excitation
     <p align="center">
