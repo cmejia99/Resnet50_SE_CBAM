@@ -84,7 +84,7 @@ Validación del Heatmap de las 3 arquitecturas, última imagen con SE parametriz
 <img src="img/gramc_caballo.png"/>
 </P>
 
-A continuación se muestra la validación de las arquitecturas en 3 diferentes imágenes de pruebas visualizando la atención con GrandCam:
+A continuación se muestra la validación de las arquitecturas en 10 diferentes imágenes de pruebas visualizando la atención con GrandCam:
 
 * Arquitectura original.
     <p align="center">
